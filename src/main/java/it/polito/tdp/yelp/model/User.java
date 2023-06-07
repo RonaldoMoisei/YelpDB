@@ -10,6 +10,7 @@ public class User {
 	private String name ;
 	private Double averageStars ;
 	private Integer reviewCount ;
+
 	
 	public User(String userId, Integer votesFunny, Integer votesUseful, Integer votesCool, String name,
 			Double averageStars, Integer reviewCount) {
